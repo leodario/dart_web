@@ -1,0 +1,4 @@
+Para o angular
+dentro da pasta do projeto no prompt eu digito -> stagehand web-angular
+pub get
+webdev serve
